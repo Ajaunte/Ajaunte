@@ -32,7 +32,7 @@ Along with website building, I am a <a href="https://www.youtube.com/@Ajaunte_/v
 HTML, CSS, and JAVA to become a Frontend Developer.
 <br><br>
 <h3>Hobbies</h3>
-Drawing, music production and audio recording, 
+•Drawing&nbsp;&nbsp;&nbsp;•music production&nbsp;&nbsp;&nbsp;•audio recording&nbsp;&nbsp;&nbsp;•photography&nbsp;&nbsp;&nbsp;•reading&nbsp;&nbsp;&nbsp;
 <br>
 <h4>Contact:</h4>
 <h5>I'd love to hear from you<h5>
