@@ -1,7 +1,7 @@
 
 <img src="https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/451816200_476520048330852_2628016521820359598_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_ohc=qUFeWpbZKkIQ7kNvgFHpxxh&_nc_gid=fe58fb1dd3aa48dc9a8e0cb88fb60af5&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYAaGtHKQkubCfp5hhAscppb3n0mRV7IncKNCqbsLHVJsw&oe=66FE32DF&_nc_sid=22de04" alt="" width="130">
 
-<h1>Hi, I’m @Ajaunte! I'm an aspiring Frontend Developer from Austin, TX.🤘🤠</h1>
+<h1>Hi, I’m Ajaunte Johnson! I'm an aspiring Frontend Developer from Austin, TX.🤘🤠</h1>
 <h2>About me</h2>
 I'm Ajaunte. I am a 23 year old from Austin, TX. I am a musician and music maker and have been making music as a hobby since 2015, mainly in the genre of Plunderphonics and Electronic. My favorite genres to listen to are Indie Rock, Rock, Jazz, Jazz Fusion, and Electronic. I'm the <i>"I listen to all genres"</i> guy. Various elements from all types of music draw me to listen.<br>
 <br>
