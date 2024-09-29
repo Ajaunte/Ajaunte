@@ -27,7 +27,7 @@ Along with website building, I am a <a href="https://www.youtube.com/@Ajaunte_/v
 HTML, CSS, and JAVA to become a Frontend Developer.
 <br><br>
 <h4>Contact:</h4>
-Email: ajaunte@gmail.com<br>
+Email: <a href="mailto:ajaunte@gmail.com">ajaunte@gmail.com</a><br>
 Discord: @ajaunte<br>
 Instagram: <a href="https://www.instagram.com/ajaunte/" target="_blank">@ajaunte</a>
 
